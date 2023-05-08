@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-export default HomePage = ({ data }) => {
+export const HomePage = ({ data }) => {
 	return (
 		<div className="home_body">
 			{data.map((ev) => (
