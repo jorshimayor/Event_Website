@@ -1,0 +1,160 @@
+{
+	"events_categories": [
+		{
+			"id": "abuja",
+			"title": "Events in Abuja",
+			"description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
+			"image": "https://images.unsplash.com/photo-1554457606-ed16c39db884?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+		},
+		{
+			"id": "lagos",
+			"title": "Events in Lagos",
+			"description": "corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
+			"image": "https://images.unsplash.com/photo-1526735334552-daff0bd6d53f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+		},
+		{
+			"id": "ibadan",
+			"title": "Events in Ibadan",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1598915533486-763edd303139?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+		}
+	],
+	"allEvents": [
+		{
+			"id": "abuja-comic-con-winter",
+			"title": "Abuja Comic Con Winter",
+			"city": "abuja",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1578110593687-2075400bad70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fG5pZ2VyaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": []
+		},
+		{
+			"id": "hyde-park-winter-wonderland",
+			"title": "Hyde Park Winter Wonderland",
+			"city": "abuja",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1620246403934-c59cbf041bbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fG5pZ2VyaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": []
+		},
+		{
+			"id": "new-years-eve-in-abuja-2023",
+			"title": "New Years Eve in Abuja 2023 ",
+			"city": "abuja",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1600383963284-91ef78fc9b6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fG5pZ2VyaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": ["obafemijoshua2020@gmail.com"]
+		},
+		{
+			"id": "'edtech-world-summit-2022",
+			"title": "EdTech World Summit 2022",
+			"city": "abuja",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1589797688224-5fc840fa09e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODl8fG5pZ2VyaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
+		},
+		{
+			"id": "sigala-at-electric-brixton",
+			"title": "Sigala at Electric Brixton",
+			"city": "lagos",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1536137011311-182058a260ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTl8fG5pZ2VyaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": ["monica@gmail.com"]
+		},
+		{
+			"id": "kiss-haunted-house-party-2022",
+			"title": "KISS Haunted House Party 2022",
+			"city": "abuja",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1559999442-1daeab04bf8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxuaWdlcmlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": []
+		},
+		{
+			"id": "ib-blockchain-week",
+			"title": "IB Blockchain Week",
+			"city": "ibadan",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1603985863797-97ded9ac5eda?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA2fHxuaWdlcmlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": [
+				"",
+				"",
+				"",
+				"laura@gmail.com",
+				"laura@gmail.com",
+				"laura@gmail.com"
+			]
+		},
+		{
+			"id": "innovation-summit-lagos",
+			"title": "Innovation Summit Lagos",
+			"city": "lagos",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1574612357719-5dd0a272afe2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI2fHxuaWdlcmlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": []
+		},
+		{
+			"id": "fan-expo-lagos",
+			"title": "FAN EXPO Lagos",
+			"city": "lagos",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1632215863479-201029d93143?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDY0fHxuaWdlcmlhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": []
+		},
+		{
+			"id": "lagos-opera---lagos-tickets",
+			"title": "Lagos Opera - Lagos Tickets",
+			"city": "lagos",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1593717191400-84f38ee95485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1356&q=80",
+			"emails_registered": []
+		},
+		{
+			"id": "concert-christian-löffler-+-detect-ensemble",
+			"title": "Concert Christian Löffler + Detect Ensemble",
+			"city": "ibadan",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1668773309553-c9f53621d6db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+			"emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
+		},
+		{
+			"id": "the-halloween-house-party",
+			"title": "The Halloween House Party",
+			"city": "ibadan",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1575453694926-9fba4a162ac2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+			"emails_registered": [
+				"alicia@gmail.com",
+				"monica@gmail.com",
+				"david@yahoo.com",
+				"claire@ss.com"
+			]
+		},
+		{
+			"id": "international-conference-on-industrial-design",
+			"title": "International Conference on Industrial Design",
+			"city": "ibadan",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1609969599279-68a966371bc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGliYWRhbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
+		},
+		{
+			"id": "world-congress-2022---ibadan",
+			"title": "World Congress 2022 - Ibadan",
+			"city": "ibadan",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1639589127628-f550b54ff6c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGliYWRhbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": ["alicia@gmail.com", "monica@gmail.com"]
+		},
+		{
+			"id": "riskminds-international",
+			"title": "RiskMinds International",
+			"city": "lagos",
+			"description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+			"image": "https://images.unsplash.com/photo-1618828665347-d870c38c95c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFnb3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"emails_registered": [
+				"alicia@gmail.com",
+				"monica@gmail.com",
+				"obafemijoshua2020@gmail.com"
+			]
+		}
+	]
+}
