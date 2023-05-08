@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 
-export const Header = () => {
+export default Header = () => {
 	return (
 		<header>
 			<div>
