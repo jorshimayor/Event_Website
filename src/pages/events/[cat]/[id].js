@@ -1,4 +1,4 @@
-import SingleEvent from '@/pages/components/c_events/single-event';
+import SingleEvent from '../../../../libs/c_events/single-event';
 
 const EventPage = ({ data }) => <SingleEvent data={data}/>;
 

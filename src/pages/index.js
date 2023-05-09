@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import styles from './_app';
-import { HomePage } from './components/home/home-page';
+import { HomePage } from '../../libs/home-page';
 
 export default function Home({ data }) {
 	return (

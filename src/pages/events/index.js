@@ -1,4 +1,4 @@
-import AllEvents from '../components/c_events/events-page';
+import AllEvents from '../../../libs/c_events/events-page';
 
 const EventsPage = ({ data }) => {
 	return (
